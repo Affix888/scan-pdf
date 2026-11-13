@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScanPDF</string>
+    <string name="scan">Scan</string>
+    <string name="more">Opsi lainnya</string>
+    <string name="empty_title">Belum ada dokumen</string>
+    <string name="empty_hint">Tekan tombol Scan untuk memotret dokumen.\nHasilnya langsung tersimpan sebagai PDF.</string>
+
+    <string name="scan_failed">Scan gagal atau dibatalkan</string>
+    <string name="save_failed">Gagal menyimpan PDF</string>
+    <string name="saved_as">Tersimpan: %1$s</string>
+    <string name="saved_with_download">Tersimpan: %1$s (juga di Download/ScanPDF)</string>
+    <string name="scanner_unavailable">Scanner tidak tersedia</string>
+    <string name="scanner_unavailable_msg">Fitur scan memerlukan Google Play Services yang aktif dan koneksi internet saat pertama kali dipakai (untuk mengunduh modul scanner).\n\nDetail: %1$s</string>
+
+    <string name="open">Buka</string>
+    <string name="open_with">Buka dengan aplikasi lain</string>
+    <string name="share">Bagikan</string>
+    <string name="rename">Ganti nama</string>
+    <string name="save">Simpan</string>
+    <string name="cancel">Batal</string>
+    <string name="delete">Hapus</string>
+    <string name="delete_confirm">Hapus \"%1$s\"? Tindakan ini tidak bisa dibatalkan.</string>
+    <string name="save_to_download">Simpan ke folder Download</string>
+    <string name="download_ok">Disimpan ke Download/ScanPDF</string>
+    <string name="download_unsupported">Gunakan Bagikan untuk menyimpan di Android versi ini</string>
+    <string name="name_exists">Nama itu sudah dipakai</string>
+    <string name="rename_failed">Gagal mengganti nama</string>
+    <string name="no_pdf_viewer">Tidak ada aplikasi pembuka PDF</string>
+    <string name="open_failed">PDF tidak bisa dibuka</string>
+    <string name="page_of">Halaman %1$d dari %2$d</string>
+
+    <plurals name="pages">
+        <item quantity="one">%d halaman</item>
+        <item quantity="other">%d halaman</item>
+    </plurals>
+</resources>
